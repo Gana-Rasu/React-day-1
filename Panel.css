@@ -1,0 +1,26 @@
+.container-panel{
+    padding: 5%;
+background-color:#f4a100;
+color: white;
+display: flex;
+}
+
+img{
+    border-radius: 10%;
+}
+
+.sidecard{
+    background-color: rgb(244 174 38);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 1%;
+    border-radius: 5%;
+}
+
+.carddata{
+    display: flex;
+    flex-direction: column;
+    padding: 3%;
+    font-size: 11px;
+}
